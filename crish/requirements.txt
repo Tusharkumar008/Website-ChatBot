@@ -1,0 +1,16 @@
+# Core Flask packages
+Flask==2.3.3
+gunicorn==21.2.0
+flask-cors==4.0.0
+
+# Development tools
+python-dotenv==1.0.0
+
+# Optional: For production
+Werkzeug==2.3.7
+
+# Optional: For database (if you want to add later)
+# Flask-SQLAlchemy==3.0.5
+
+# Optional: For forms (if you want to add later)
+# Flask-WTF==1.1.1
